@@ -4,7 +4,7 @@ Baza podataka je kreirana na online servisu apex.oracle.com. Kreirana je back of
 </p>
 <p>Back office aplikacija: https://apex.oracle.com/pls/apex/f?p=56287</br>
 <p>Podaci za login:</br>
-<b>Username:</b>DEMO</br>
-<b>Password:</b>demo12345</p>
+<b>Username:</b> DEMO</br>
+<b>Password:</b> demo12345</p>
 <h1>API korišten u izradi</h1> </br>
-<a href="https://apex.oracle.com/pls/apex/dbp_project/mobileapp/recepies">Custom API recepies</a></br>
+<a href="https://apex.oracle.com/pls/apex/dbp_project/mobileapp/recepies">Custom API recepti</a></br>
