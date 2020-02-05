@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Recepies 123</string>
+    <string name="gSignin">G Sign in</string>
+    <string name="LoginText">Welcome to Recepies 123!</string>
+    <string name="login_picture_text">Login picture</string>
+    <string name="sign_out">Sign out</string>
+    <string name="korisnik_slika">korisnik_slika</string>
+    <string name="email">Email</string>
+    <string name="upis_recepata">upis recepata</string>
+    <string name="upisite_recepte">Upisite recepte</string>
+    <string name="title_activity_search">Search Activity</string>
+    <string name="show_recepies">Show recepies</string>
+</resources>
